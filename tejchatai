@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TejChat AI</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background-color: #f8f9fa;
+      color: #212529;
+    }
+    header {
+      background: #4F46E5;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin-top: 0.5rem;
+    }
+    .section {
+      padding: 2rem 1rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    .section h2 {
+      color: #4F46E5;
+    }
+    footer {
+      background-color: #e9ecef;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+    }
+    .contact a {
+      color: #4F46E5;
+      text-decoration: none;
+    }
+    .demo-box {
+      border: 2px dashed #ccc;
+      padding: 2rem;
+      text-align: center;
+      border-radius: 10px;
+      margin-top: 1rem;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>TejChat AI</h1>
+  <p>We build smart AI chatbots for small businesses.</p>
+</header>
+
+<section class="section">
+  <h2>About Us</h2>
+  <p>TejChat AI creates custom AI-powered chatbots for local businesses. Whether you're a clinic, restaurant, or real estate agency — we help automate FAQs, bookings, and customer support 24/7 using the power of AI.</p>
+</section>
+
+<section class="section">
+  <h2>What We Offer</h2>
+  <ul>
+    <li>Custom chatbot development using LLMs</li>
+    <li>WhatsApp, Website, and CRM integration</li>
+    <li>24/7 support bots for local businesses</li>
+    <li>Easy onboarding and quick setup</li>
+  </ul>
+</section>
+
+<section class="section">
+  <h2>Demo</h2>
+  <div class="demo-box">
+    <p><em>Coming Soon: Live Demo Chatbot</em></p>
+  </div>
+</section>
+
+<section class="section contact">
+  <h2>Contact Us</h2>
+  <p>Email: <a href="mailto:tejchatai@gmail.com">tejchatai@gmail.com</a></p>
+  <p>WhatsApp: <a href="https://wa.me/916300871001" target="_blank">+91 63008 71001</a></p>
+</section>
+
+<footer>
+  &copy; 2025 TejChat AI. All rights reserved.
+</footer>
+
+</body>
+</html>
